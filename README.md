@@ -1,5 +1,13 @@
 ## # Hello, World 👋
 ##  I am currently learning at **SAIT**
+<ul> 
+<li> 
+I love editing with after effects
+  </li>
+<li>I love skiing 
+</li>
+<li> I love golfing </li>
+</ul>
 <!--
 **AnthonyGordonbit/AnthonyGordonbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
