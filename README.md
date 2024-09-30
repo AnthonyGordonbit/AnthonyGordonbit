@@ -1,9 +1,12 @@
 ## # Hello, World 👋
 ##  I am currently learning at **SAIT**
+<h2> A few things about me</h2>
+
 <ul> 
 <li> 
 I love editing with after effects
-  </li>
+</h2>  
+</li>
 <li>I love skiing 
 </li>
 <li> I love golfing </li>
