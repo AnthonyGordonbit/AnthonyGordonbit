@@ -10,6 +10,7 @@ I love editing with after effects
 <li>I love skiing 
 </li>
 <li> I love golfing </li>
+<li> I love gaming  </li>
 </ul>
 <!--
 **AnthonyGordonbit/AnthonyGordonbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
