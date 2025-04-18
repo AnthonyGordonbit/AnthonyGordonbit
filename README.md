@@ -1,4 +1,4 @@
-## # Hello, World 👋
+##  Hello, 👋
 ##  I am currently learning at **SAIT**
 <h2> A few things about me</h2>
 
